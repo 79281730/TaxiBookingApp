@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/cxy/Dev/PartTimeJobs/TaxiBookingApp/build",
+  "command": "/usr/bin/clang++ -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/TaxiBookingApp.dir/TaxiBookingApp.cpp.o -c /Users/cxy/Dev/PartTimeJobs/TaxiBookingApp/TaxiBookingApp.cpp",
+  "file": "/Users/cxy/Dev/PartTimeJobs/TaxiBookingApp/TaxiBookingApp.cpp",
+  "output": "CMakeFiles/TaxiBookingApp.dir/TaxiBookingApp.cpp.o"
+},
+{
+  "directory": "/Users/cxy/Dev/PartTimeJobs/TaxiBookingApp/build",
+  "command": "/usr/bin/clang++ -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/TaxiBookingApp.dir/Booking.cpp.o -c /Users/cxy/Dev/PartTimeJobs/TaxiBookingApp/Booking.cpp",
+  "file": "/Users/cxy/Dev/PartTimeJobs/TaxiBookingApp/Booking.cpp",
+  "output": "CMakeFiles/TaxiBookingApp.dir/Booking.cpp.o"
+},
+{
+  "directory": "/Users/cxy/Dev/PartTimeJobs/TaxiBookingApp/build",
+  "command": "/usr/bin/clang++ -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/TaxiBookingApp.dir/User.cpp.o -c /Users/cxy/Dev/PartTimeJobs/TaxiBookingApp/User.cpp",
+  "file": "/Users/cxy/Dev/PartTimeJobs/TaxiBookingApp/User.cpp",
+  "output": "CMakeFiles/TaxiBookingApp.dir/User.cpp.o"
+}
+]

@@ -1,0 +1,3 @@
+/Users/cxy/Dev/PartTimeJobs/TaxiBookingApp/build/CMakeFiles/TaxiBookingApp.dir
+/Users/cxy/Dev/PartTimeJobs/TaxiBookingApp/build/CMakeFiles/edit_cache.dir
+/Users/cxy/Dev/PartTimeJobs/TaxiBookingApp/build/CMakeFiles/rebuild_cache.dir

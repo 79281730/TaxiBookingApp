@@ -1,0 +1,5 @@
+# ninja log v6
+1	433	1732539283939968226	CMakeFiles/TaxiBookingApp.dir/User.cpp.o	d5358a9722f15171
+1	653	1732539283939851268	CMakeFiles/TaxiBookingApp.dir/Booking.cpp.o	8b75c4eca220abbd
+0	672	1732539283939623604	CMakeFiles/TaxiBookingApp.dir/TaxiBookingApp.cpp.o	edff931592b8b2f8
+672	702	1732539284611392398	TaxiBookingApp	c7268f5faae7cc8a
